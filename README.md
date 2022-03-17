@@ -14,7 +14,7 @@
     <a href="https://github.com/eddyndumia/Dream-House/issues"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://bit.ly/3u69pKy">View Demo</a>
+    <a href="https://cutt.ly/iSsUk6O">View Demo</a>
     ·
     <a href="https://github.com/eddyndumia/Dream-House/issues">Report Bug</a>
     ·
@@ -38,6 +38,7 @@ human power and time. Also tenants can’t find detailed information about the r
 the house owner to get perfect tenant. Owners sometimes wait a long time to rent their house. To
 solve this problem, we need a computerized system so that anyone can easily find their desired
 home. 
+View Demo here [https://cutt.ly/iSsUk6O] (https://cutt.ly/iSsUk6O)
 
 ## Built With
 
