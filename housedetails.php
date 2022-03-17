@@ -50,8 +50,8 @@
             </div>
             <?php } ?>
           </div>
-          <div class="house_description">
-            <p class="text-justify"><?php echo $house['description']; ?></p>
+          <div class="house_description text-center" style="border: thin solid black;padding: 10px;">
+            <p class="text-wrap"><?php echo $house['description']; ?></p>
           </div>
         </div>
       </div>
@@ -64,7 +64,7 @@
             </tr>
             <tr>
               <td> <strong>Rental value:</strong> </td>
-              <td> <?php echo $house['rental_value']; ?> </td>
+              <td>Ksh. <?php echo $house['rental_value']; ?> </td>
             </tr>
             <tr>
               <td> <strong>Address:</strong> </td>

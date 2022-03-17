@@ -91,12 +91,12 @@
         <div class="single_house_inner card-body">
           <div class="house_title">
             <p style="font-weight:600;">  <i class="fas fa-map-marker-alt"></i> <?php echo $value['address']; ?> </p>
-            <p class="rent"> <i class="fas fa-money-check-alt"></i> <?php echo $value['rental_value']; ?> </p>
+            <p class="rent"> <i class="fas fa-money-check-alt"></i>Ksh. <?php echo $value['rental_value']; ?> </p>
           </div>
           <div class="house_img">
-            <img src="assets/images/house/house29.png" alt="House">
+            <img src="assets/images/house/clip.png" alt="House">
           </div>
-          <a href="housedetails.php?house_id=<?php echo $value['id']; ?>">Details</a>
+          <a href="housedetails.php?house_id=<?php echo $value['id']; ?>" class= "price-color">Details</a>
         </div>
       </div>
 

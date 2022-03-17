@@ -40,7 +40,7 @@
 
             <ul class="extra_nav">
               <!-- <li style="margin:20px 0px;"> <a class="btn btn-info" href="">Your Tenent List</a> </li> -->
-              <li> <a class="btn btn-primary" href="editprofile.php?id=<?php echo Session::get('user_id'); ?>">Edit Profile</a> </li>
+              <li> <a class="btn btn-warning" href="editprofile.php?id=<?php echo Session::get('user_id'); ?>">Edit Profile</a> </li>
             </ul>
           <?php } ?>
           </div>
@@ -72,10 +72,10 @@
                   <div class="single_house_inner card-body">
                     <div class="house_title">
                       <p style="font-weight:600;">  <i class="fas fa-map-marker-alt"></i> <?php echo $house['address']; ?> </p>
-                      <p class="rent"> <i class="fas fa-money-check-alt"></i> <?php echo $house['rental_value']; ?> </p>
+                      <p class="rent"> <i class="fas fa-money-check-alt"></i>Ksh. <?php echo $house['rental_value']; ?> </p>
                     </div>
                     <div class="house_img">
-                      <img src="assets/images/house/house29.png" alt="House">
+                      <img src="assets/images/house/clip.png" alt="House">
                     </div>
                     <?php
                       if ($house['active_status'] == 1) {

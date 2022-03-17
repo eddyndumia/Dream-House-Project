@@ -90,7 +90,7 @@
                       <!-- <li class="ranges"><a href="#range">Ranged Value</a></li> -->
                     </ul>
                     <div id="fixed">
-                      <label for="amount_fixed" style="font-weight:bold;color:coral;">$</label>
+                      <label for="amount_fixed" style="font-weight:bold;color:coral;">Ksh. </label>
                       <input type="text" id="amount_fixed" name="rental_value" readonly style="border:0; color:#f6931f; font-weight:bold;">
                       <div id="slider-range-max" class="myrange" title="Tap left or right button to set more precise value."></div>
                     </div>

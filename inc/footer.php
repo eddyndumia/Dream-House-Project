@@ -1,6 +1,6 @@
 <footer>
   <div class="footer_main container">
-    <p class="text-center">Copyright 2019 by Cool Data. All Rights Reserved.</p>
+    <p class="text-center">Copyright 2022 by Mathematics and Computer Science Students, JKUAT.</p>
   </div>
 </footer>
 

@@ -29,9 +29,9 @@ nav{
   float: right;
 }
 .cover_area{
-  background-image: url('../images/cover/7.jpg');
+  background-image: url('../images/cover/Students-at-Mount-Kenya-University.jpg');
   width: 100%;
-  background-size: 100% 100%;
+  background-size: 100%;
   position: relative;
   background-attachment: fixed;
 }
@@ -111,11 +111,11 @@ nav{
 .contact_area{
 }
 footer{
-  background-color: #333a56;
+  background-color: #1b63ce;
 }
 footer p{
   color:#fff;
-  padding: 34px 0px;
+  padding: 24px 0px;
 }
 .register_main form{
   margin: 0px auto;
@@ -166,7 +166,7 @@ footer p{
   padding: 36px 0px;
 }
 .left_profile_inner{
-  background-color: #52658f;
+  background-color: #1b63ce;
   border-radius: 4px 0px 0px 4px;
   padding: 10px;
   color: #fff;
@@ -354,6 +354,9 @@ footer p{
   font-size: 24px;
   vertical-align: bottom;
 }
+.price-color {
+  color: rgb(13, 147, 45);
+}
 .edit_profile_form{
   margin: 0px auto;
   width: 1000px;
@@ -369,6 +372,7 @@ footer p{
   width: 100%;
   height: 100%;
   padding: 10px;
+  border-radius: 6%;
 }
 .house_details_inner table tr td{
   padding: 8px;
@@ -379,6 +383,10 @@ footer p{
 .rent{
   background-color: lavender;
   padding: 15px 10px;
+  border-radius: 3px;
+}
+.house_description{
+  border: #000;
   border-radius: 3px;
 }
 .search_house_form{
@@ -480,7 +488,7 @@ footer p{
   vertical-align: super;
 }
 .navbar{
-  background-color: #cb3737 !important;
+  background-color: #1b63ce !important;
 }
 .main_nav ul li a{
   color:#fff !important;
