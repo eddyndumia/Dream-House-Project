@@ -1,0 +1,18 @@
+.owner_details table td{
+  padding: 10px;
+}
+.owner_details .profile_pic{
+  height: 180px;
+  width: 200px;
+  margin-bottom: 30px;
+}
+.owner_details .profile_pic img{
+  height: 100%;
+  width: 100%;
+}
+.owner_details .action_btn{
+  margin-top: 30px;
+}
+.owner_details .action_btn a{
+  margin-left: 20px;
+}
