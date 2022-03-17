@@ -14,7 +14,7 @@
     <a href="https://github.com/eddyndumia/Dream-House/issues"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/eddyndumia/Dream-House">View Demo</a>
+    <a href="https://bit.ly/3u69pKy">View Demo</a>
     ·
     <a href="https://github.com/eddyndumia/Dream-House/issues">Report Bug</a>
     ·
