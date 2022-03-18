@@ -38,7 +38,7 @@ human power and time. Also tenants can’t find detailed information about the r
 the house owner to get perfect tenant. Owners sometimes wait a long time to rent their house. To
 solve this problem, we need a computerized system so that anyone can easily find their desired
 home. 
-View Demo here [https://cutt.ly/iSsUk6O] (https://cutt.ly/iSsUk6O)
+### View Demo here [https://cutt.ly/iSsUk6O](https://cutt.ly/iSsUk6O)
 
 ## Built With
 
@@ -78,7 +78,7 @@ Other than the languages/tools mentioned above no other/external libraries and/o
 
 6. Create a New Database 
 
-7. Give a database name as (house-rental) hit on create button.
+7. Give a database name as (houserent) hit on create button.
 
 8. After creating database name click on import.
 
@@ -99,7 +99,7 @@ Other than the languages/tools mentioned above no other/external libraries and/o
 6. [Gloria Ekaran](https://github.com/ekarangloria)
 7. [Eddy Ndumia](https://github.com/eddyndumia)
 
-Project Link: [https://github.com/eddyndumia/Dream-House](https://github.com/eddyndumia/Dream-House)
+### Project Link: [https://github.com/eddyndumia/Dream-House](https://github.com/eddyndumia/Dream-House)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
