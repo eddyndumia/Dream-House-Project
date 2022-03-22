@@ -23,7 +23,7 @@
               <img src="<?php
                if(isset($user->pic) && $user->pic != ''){echo $user->pic;}else{ echo 'assets/images/owner.png'; } ?>" class="img-thumbnail" alt="Owner">
             </div>
-            <p class="text-center"> <i class="fas fa-user" style="margin-right:5px;"></i> <?php echo Session::get('fname')." ".Session::get('lname'); ?> </p>
+            <p class="text-center"> <i class="fas fa-user" style="margin-right:5px;"></i> <?php if(isset($user->fname)) echo $user->fname;if(isset($user->lname)) echo ' '.$user->lname;?> </p>
           </div>
           <div class="profile_nav">
             <ul class="main_profile_nav">
