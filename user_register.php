@@ -15,7 +15,7 @@
 
 
       if((isset($msg)) && ($msg=='success')){
-        echo "<p class='alert alert-success'>You registered Successfully!</p>";
+        echo "<p class='alert alert-success'>You registered successfully!</p>";
         $msg = null;
       }
       else if((isset($msg)) && ($msg=='fail')){
@@ -23,7 +23,7 @@
         $msg = null;
       }
       else if((isset($msg)) && ($msg=='empty')){
-        echo "<p class='alert alert-danger'>Fill all the Field please!</p>";
+        echo "<p class='alert alert-danger'>Fill all Fields please!</p>";
         $msg = null;
       }
       else if((isset($msg)) && ($msg=='smallpass')){
@@ -55,8 +55,8 @@
       <input type="text" class="form-control" name="lname" placeholder="Last Name">
       <input type="text" class="form-control" name="email" placeholder="Email">
       <input type="password" name="password" class="form-control" placeholder="Password">
-      <p class="text-right clear"> <input type="submit" class="btn btn-primary loginbtn" name="register" value="Register"> </p>
-      <p class="text-center"> Already a member? <a href="user_login.php"> Sign In! </a></p>
+      <p class="text-right clear"> <input type="submit" class="btn btn-primary loginbtn" name="register" value="Register">  <p class="text-center"> Already a member? <a href="user_login.php"> Sign In! </a></p></p>
+     
     </form>
   </div>
 </div>
